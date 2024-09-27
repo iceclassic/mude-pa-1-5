@@ -114,7 +114,7 @@ def plot_date_time_distribution(df_1: pd.DataFrame,
                    alpha=0.5, color='gray', label='Histogram')
     axs[0, 0].plot(kde_values_time, y_values_time, label='KDE Estimate', color='red', alpha=0.3)
     axs[0, 0].plot(y_norm_time, y_values_time, label=f"Norm estimate", color='blue')
-    axs[0, 0].invert_yaxis()
+    #axs[0, 0].invert_yaxis()
     axs[0, 0].invert_xaxis()
     axs[0, 0].legend()
     axs[0, 0].set_xticks([])
