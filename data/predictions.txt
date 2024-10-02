@@ -1,6 +1,6 @@
 GitHub Handle;Prediction
 andrrroi; 2025-05-03 14:22:43
-Aminealami16;  2025-05-1 12:13:36
+Aminealami16; 2025-05-1 12:13:36
 sromijn; 2024-04-26 12:40:12
 Karthik2797-MUDE;
 hanyuchengatdelft; 2025-05-12 15:27:38
@@ -65,7 +65,7 @@ pt148;
 Fahd-hub;
 bramantys; 2025-04-20 10:10:10
 srijan-1105;
-eveliina-moonen or eve.moonen@gmail.com; 2025-04-20 21:21:21
+eveliina-moonen; 2025-04-20 21:21:21
 Yazzie0399;
 MoritzKnoell; 2025-04-30 07:48:36
 cnobbe; 2025-05-26 22:05:53
@@ -192,7 +192,7 @@ JuliedenDekker; 2025-04-01 14:30:00
 amacieiradesea; 2025-05-02 14:13:23
 Jesper-45; 2025-04-05 07:07:07 
 fenalonso; 2025-04-23 18:07:32  
-rsuaedi; 2025-04-30 15:05:15 ; 
+rsuaedi; 2025-04-30 15:05:15
 AJGoest; 2025-6-5 15:30:30 
 blank_use_me_if_your_handle_is_not_in_list; 
 EvanPeeters; 2025-04-21 14:31:12 
