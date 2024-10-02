@@ -33,8 +33,8 @@ jobs:
       run: |
         git config --local user.email "test@github.com"
         git config --local user.name "GitHub Action test"
-        git add predictions.svg README.md
-        git commit -m 'Update predictions.svg'
+        git add predictions.svg predictions_all.svg README.md
+        git commit -m 'Update predictions*.svg'
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
