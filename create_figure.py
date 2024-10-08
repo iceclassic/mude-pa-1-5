@@ -68,6 +68,8 @@ def plot_date_time_distribution(df_1: pd.DataFrame,
     y_values = y_values_2
     mean_y = y_values.mean()
 
+    title += f", N={len(y_values_1)}"
+
     axs[0, 1].scatter(x_values_1, y_values_1,
                       color='red', label='2025 Predictions',
                       edgecolors='black', linewidths=1.0,
@@ -79,7 +81,7 @@ def plot_date_time_distribution(df_1: pd.DataFrame,
     
     if plot_limits is not None:
         axs[0, 1].set_xlim(plot_limits)
-        title += f"(only showing days {plot_limits[0]} to {plot_limits[1]})"
+        title += f" (only showing days {plot_limits[0]} to {plot_limits[1]})"
         
     axs[0, 1].axvline(x=90, color='black', linestyle='--', alpha=0.5, linewidth=1.5, label='Betting Deadline')
 
