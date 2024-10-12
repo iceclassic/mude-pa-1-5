@@ -22,6 +22,7 @@ def plot_date_time_distribution(df_1: pd.DataFrame,
                                 decimal_time_col_2: str,
                                 estimator: str,
                                 title,
+                                plot_limits: tuple = None,
                                 plot_size: tuple = (15, 10)) -> plt.Figure:
     """
     Scatter plot of (datetime_col, decimal_time_col), and density plot of (decimal_time_col) and (datetime_col).
@@ -67,6 +68,8 @@ def plot_date_time_distribution(df_1: pd.DataFrame,
     y_values = y_values_2
     mean_y = y_values.mean()
 
+    title += f", N={len(y_values_1)}"
+
     axs[0, 1].scatter(x_values_1, y_values_1,
                       color='red', label='2025 Predictions',
                       edgecolors='black', linewidths=1.0,
@@ -76,12 +79,21 @@ def plot_date_time_distribution(df_1: pd.DataFrame,
                       edgecolors='black', linewidths=1.0,
                       s=20)
     
+    if plot_limits is not None:
+        axs[0, 1].set_xlim(plot_limits)
+        title += f" (only showing days {plot_limits[0]} to {plot_limits[1]})"
+        
+    axs[0, 1].axvline(x=90, color='black', linestyle='--', alpha=0.5, linewidth=1.5, label='Betting Deadline')
+
     axs[0, 1].grid(True)
     axs[0, 1].legend()
 
     axs[0, 1].set_xlabel('Day of Year')
     axs[0, 1].set_ylabel('Time (Decimal)')
     axs[0, 1].set_title(title)
+
+    # get xlimits from plot
+    xlimits = axs[0, 1].get_xlim()
 
     # Density plot for datetime_col (Day of year) in position (1, 1)
     mu, std = norm.fit(x_values)
@@ -97,6 +109,7 @@ def plot_date_time_distribution(df_1: pd.DataFrame,
     axs[1, 1].set_ylabel('Density')
     axs[1, 1].invert_yaxis()
     axs[1, 1].legend()
+    axs[1, 1].set_xlim(xlimits)
     axs[1, 1].set_xticks([])
     axs[1, 1].set_yticks([])
 
@@ -139,4 +152,11 @@ fig = plot_date_time_distribution(predictions, 'Prediction', 'decimal time',
                             past_break_up_dates, 'Break up dates', 'decimal time',
                             estimator='mle',
                             title='Historic Breakup (with density estimates) and 2025 Predictions');
+fig.savefig(get_path('predictions_all.svg'))
+
+fig = plot_date_time_distribution(predictions, 'Prediction', 'decimal time',
+                            past_break_up_dates, 'Break up dates', 'decimal time',
+                            estimator='mle',
+                            title='Historic Breakup (with density estimates) and 2025 Predictions',
+                            plot_limits=(60, 155));
 fig.savefig(get_path('predictions.svg'))

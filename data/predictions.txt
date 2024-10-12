@@ -1,32 +1,46 @@
 GitHub Handle;Prediction
+tjkaalberg; 2025-05-03 11:11:11
+celalllsagir; 2025-05-03 15:45:02
 andrrroi; 2025-05-03 14:22:43
-Aminealami16;  2025-05-1 12:13:36
+Aminealami16; 2025-05-1 12:13:36
+Feras618; 2025-05-02 12:22:30
 sromijn; 2024-04-26 12:40:12
 Karthik2797-MUDE;
 hanyuchengatdelft; 2025-05-12 15:27:38
 bgazidede; 2025-04-01 19:07:59
-cbazani;
+cbazani; 2025-04-21 17:19:11
 kdrooij; 2025-04-30 14:58:58
-JLJor2505;
+bgazidede;
+cbazani;
+Victiooo; 2025-04-17 21:15:45
+SamKersten; 2025-04-04 12:34:56
+kdrooij;
+JLJor2505; 2025-04-21 14:34:04
 SamB433; 2025-04-23 14:33:13
 OlivierVanTilt; 2025-04-19 13:12:11
-hakksss;
+hakksss; 2025-04-28 09:12:50
 Melkermelkersson;
-Amber1709;
-mmarrocolo;
-AleksSliw;
-r-c-cox;
+Amber1709; 2025-05-12 15:00:00
+mmarrocolo; 2025-04-27 14:18:26
+AleksSliw; 2025-04-27 14:18:27
+r-c-cox; 2025-05-2 02:56:56
 Zahir-Z; 2025-04-24 13:59:45
 JasperBlokdijk; 2025-04-21 15:02:34
-RSRJ25;
-thom-vdv;
+RSRJ25; 2025-04-25 15:01:33
+thom-vdv; 2025-04-28 15:23:03
 5881692; 2025-04-26 21:22:00
+Zahir-Z;
+JasperBlokdijk;
+RSRJ25; 2025-04-29 13:45:05
+thom-vdv;
+5881692;
 Gijs-Hendrickx; 2025-04-25 12:31:48
+lmartinezestev; 2025-04-01 19:28:00
 Menno02; 2025-05-02 14:14:14
 gwslingerland; 2025-04-29 16:33:33
-e-girl-dang;
+e-girl-dang; 2025-05-05 12:34:56
 SichengH608;
-Lufermes;
+Lufermes; 2025-04-08 21:22:12
 JoaquinLL; 2025-05-02 06:39:23
 martijnbruijn; 2025-04-12 14:30:31
 Bhavyadhatri;
@@ -36,23 +50,23 @@ czamorad; 2025-04-30 14:44:45
 thijskvs; 2025-04-29 01:50:33
 Sanjeev124566; 2025-4-23 19:20:33
 rosas; 2025-05-10 03:56:24
-qidouw;
-rittika01;
-idegoede;
+qidouw;2025-04-21 02:45:31
+rittika01; 2025-04-08 12:23:41
+idegoede; 2025-05-10 03:56:14
 Julenkate; 2025-04-10 05:56:20
 mardiamanta;
-NielsKroon5;
+NielsKroon5; 2025-04-15 05:05:05 
 wiekeo; 2025-04-16 15:14:13
-TUDelft-NB;
-JordiNijs;
-Bouwe-JantenDonkelaar;
+TUDelft-NB; 2025-04-25 14:07:33
+JordiNijs; 2025-05-01 13:05:01
+Bouwe-JantenDonkelaar; 2025-05-30 13:01:30
 LeonKlok;
 jerintm;
-edookee; 2025-04-20 07:12:37
+edookee; 2025-04-9 07:12:37
 N-ctrl-coder; 2025-05-05 05:05:05
-emma1801;
+emma1801; 2025-04-21 16:30:18
 saanataal; 2025-04-12 12:12:12
-defashaap;
+defashaap; 2025-04-15 15:30:00
 jvella293; 2025-04-25 10:10:10
 aniku23;
 k-akraa; 2025-04-20 20:20:20
@@ -61,58 +75,61 @@ pt148;
 Fahd-hub;
 bramantys; 2025-04-20 10:10:10
 srijan-1105;
-eveliina-moonen or eve.moonen@gmail.com; 2025-04-20 21:21:21
-Yazzie0399;
+eveliina-moonen; 2025-04-20 21:21:21
+Yazzie0399; 2025-04-22 12:12:12
 MoritzKnoell; 2025-04-30 07:48:36
-cnobbe;
+cnobbe; 2025-05-26 22:05:53
 nholt2000; 2025-04-01 17:05:03
-Juliettedms;
-fvanwest;
-JuliaJankie;
+Juliettedms;2025-04-27 15:50:08
+fvanwest; 2025-04-27 14:15:00
+JuliaJankie; 2025-12-09 13:32:55
 RensKoreman;
 UltiemeThieme; 2025-05-01 20:15:05
 zainalkhoury;
 Roseparsley8972;
 redjasper0;
-AledEngineering;
-CoosjeCovers; 24-04-2025 15:07:07
-hsalden;
+AledEngineering; 2025-04-29 14:32:02
+CoosjeCovers; 2025-04-24 15:07:07
+hsalden; 2025-05-03 12:03:03
 lmovervoorde;
-AJDBaudoin;
-Dodobr44119;
+AJDBaudoin; 2025-04-26 12:12:12
+Dodobr44119; 2025-04-27 08:45:50
 matteocarrari;
 wyteo; 2025-04-19 16:19:13
-TijnSpijkers;
-bartdew;
+TijnSpijkers; 2025-05-03 10:10:10
+bartdew; 2025-04-25 11:11:11
 PieterPaap;
-xvanriel;
+xvanriel; 2025-04-20 09:23:17
 tridderb;
+harvandeven; 2025-04-15 13:43:01
+xvanriel;
+tridderb; 2025-05-18 12:22:36
 harvandeven;
 roelb2; 2025-04-21 13:45:05
 Jelokerse; 2025-04-20 16:33:19
-skocken;
+skocken; 2025-04-17 08:17:03
 TanjaWaiboer; 2025-04-01 14:43:17
-Sjleeuwen;
-anneakiko;
+Sjleeuwen; 2025-04-19 14:32:19
+anneakiko; 2025-04-10 16:51:02
 DePeterR; 2025-05-09 02:40:34
 xvanriel;
 CasperPolet; 2025-04-25 14:10:09
 matter982;
 DucoBuis; 2025-05-03 13:35:17
 JacobSol;
-JorritvanHeijst;
+JorritvanHeijst; 2025-04-08 05:56:20
 Maissaeela; 2025-04-28 15:16:35
 LaurensKnaap;
-BartvanDijk2210;
+BartvanDijk2210; 2025-04-03 16:22:08
 botpower; 2025-05-01 12:00:00
-EdouardEk;
+EdouardEk; 2025-04-20 16:12:37
 02Yordan; 2025-05-04 16:04:12
 schippieMJ; 2025-04-28 16:12:34
 JasperBiemans; 2025-05-04 12:12:12
 mikeintveld; 2025-04-29 12:29:15
-JanKarsemeijer;
+JanKarsemeijer; 2025-04-26 14:48:35
 VSadNS; 2025-05-01 17:38:08
-Greverda;
+Greverda;2025-05-04 17:18:28
 Tekin1207; 2025-04-04 12:00:00
 Stijn;
 YuvalStassen; 2025-04-13 15:47:47
@@ -124,6 +141,7 @@ DelongV; 2025-04-29 15:12:29
 Anly33; 2025-04-18 13:22:33
 ronajak; 2025-04-28 16:01:30
 henrikluit; 2025-04-08 15:34:45
+leilatw; 2025-05-21 18:32:10
 Wildcard_6; 2025-04-29 22:05:03
 Wildcard_1; 2025-05-15 01:05:03
 Wildcard_2; 2025-04-15 11:23:03
@@ -132,4 +150,94 @@ Wildcard_4; 2025-04-01 11:04:03
 Wildcard_5; 2025-04-28 23:07:03
 Wildcard_6; 2025-04-25 19:54:03
 irenefidalgo; 2025-04-28 19:00:00
+Jaminxie5107865; 2025-04-28 15:30:00
+TessaHornes; 2025-04-15 11:06:02
 KuusikL; 2025-04-20 15.00
+Jaminxie5107865; 2025-04-29 15:12:30
+ShouD94; 2025-04-30 16:20:00
+Yaro-NL; 2025-04-12 22:05
+ivanheijzen; 2025-04-17 17:17:17
+ahempel02; 2025-04-14 16:30:01
+ethan-meen; 2025-04-01 15:15:15
+JosephineSloots2001; 2025-03-15 12:44:42
+tiesterLaan; 2025-04-22 13:11:11
+Isabelonline; 2025-04-17 14:00:00
+Mimajujo; 2025-05-05 15:00:00
+lichengguo1114; 2025-04-25- 16:43:31
+JorisPikaar; 2025-04-23 05:21:39
+Wladimir-Kattentidt; 2025-05-02 14:04:06
+kdetsi; 2025-08-011 11:05:03
+Jelle-Gortemaker; 2025-08-22 01:11:11
+nlitzerinou; 2025-04-29 15:17:59 
+sterredegroot; 2025-05-01 13:05:52 
+Aqdas-M; 2025-05-22 8:00:00
+lboestfleisch; 2025-05-01 14:14:14
+danielagocs; 2025-05-01 10:05
+Aymexf; 2025-04-15 06:05:30
+gijsvdbrekel; 2025-05-15 12:42:11 
+pj63; 2025-04-01 12:00:00
+yharnowo; 2024-04-18 17:00:00
+franziskaalbr; 2025-05-01 15:20:45
+floorhoekstra; 2024-04-16 13:15:16 
+iliagg; 2025-05-06 15:04:38
+lula_wan; 2025-04-21 12:56:49
+debnovalina; 2025-04-25 16:43:31
+Gimori3; 2025-04-30 15:00:00 
+nlitzerinou; 2025-04-29 15:17:59 
+semroozendaal1; 2025-04-20 16:23:20
+ljaerbrink; 2025-05-01 12:09:30
+denisepierce01; 2025-05-13 08:55:33 
+baukevelthuijs; 2025-05-21 12:25:04 
+Lena-ten-Wolde; 2025-04-20 15:00:00 
+Lena-ten-Wolde; 2025-04-20 15:00:00
+edarikahiki; 2025-05-01 15:00:00
+PieterAdlP; 2025-05-03 14:31:31
+Lsreekumar3010; 2025-04-18 18:18:18  
+LAVogelaar; 2025-04-22 14:32:32 
+VeravanSpronsen; 2025-04-27 10:44:42
+crdebruin; 2025-05-07 07:07:07 
+AlmerAydogan; 2025-05-08 16:01:00
+JuliedenDekker; 2025-04-01 14:30:00 
+amacieiradesea; 2025-05-02 14:13:23
+Jesper-45; 2025-04-05 07:07:07 
+fenalonso; 2025-04-23 18:07:32  
+rsuaedi; 2025-04-30 15:05:15
+AJGoest; 2025-6-5 15:30:30 
+EvanPeeters; 2025-04-21 14:31:12 
+JostVoges; 2025-04-22 04:20:22
+willemijnmulder; 2025-05-25 15:10:05 
+KashyfiSalleh; 2025-04-23 18:07:32 
+waawagenaars;2025-05-05 11:11:11
+famkemichielsen1; 2025-04-22 18:31:22 
+JoppedeVos; 2025-04-05 17:00:01
+SarahSultana; 2025-04-17 13:20:07 
+MadhurIshani; 2025-04-25 14:55:55
+njeapp2; 2025-04-13 04:15:06 
+BobvanDaal;  2025-04-28 13:45:45
+3SepeS3; 2025-03-23 13:34:28
+GNareshelashvili; 2025-04-20 13:30:01 
+vmvandijk; 2025-05-03 22:22:22 
+Loe-SS; 2025-04-22 02:22:22
+haahanif; 2025-04-14 14:08:23
+rswarman; 2025-05-01 11:30:30
+slmbusch; 2025-04-12 15:33:10 
+mtenzweege; 2025-05-03 14:15:33
+yashasvi-aggarwal; 2025-05-12 13:20:00
+Paulus1610; 2025-05-06 14:32:00
+Ren0Gong; 2025-05-07 17:37:20
+tleysner; 2025-04-05 18:00:00
+avasbhat; 2025-04-29 15:30:20
+Samuel0805; 2025-05-08 15:41:41
+slnkoomans; 2025-05-05 08:51:20
+aakhalil97; 2025-05-11 12:30:17
+lfeitz; 2025-05-05 13:30:17
+TomHersche; 2025-04-30 07:07:07
+Klaasln; 2025-05-06 09:32:11
+Hypatia-Alexandria; 2025-04-12 08:27:15
+vibee22; 2025-05-05 15:07:29
+KajAbildgaard; 2025-05-04 11:11:11
+simbaleeuw; 2025-04-25 04:32:45
+flavgiannini; 2025-05-06 09:33:12
+blank_use_me_if_your_handle_is_not_in_list; 
+please_enter_your_info_in_the_row_above; 
+dont_use_this_row;
