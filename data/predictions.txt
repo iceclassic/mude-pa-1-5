@@ -2,7 +2,6 @@ GitHub Handle;Prediction
 markela-mp; 2025-04-22 12:29:36
 tjkaalberg; 2025-05-03 11:11:11
 Jaapiejooo; 2025-05-04 08:08:08
-Loe-SS; 2025-04-22 02:22:22
 celalllsagir; 2025-05-03 15:45:02
 andrrroi; 2025-05-03 14:22:43
 Aminealami16; 2025-05-1 12:13:36
@@ -248,6 +247,7 @@ Nikolaos2000; 2025-05-02 08:44:13
 KamranGitHub123; 2025-04-29 13:32:04
 pauline377; 2025-05-02 08:00:02
 Merelkramer; 2025-05-9 12:45:29 
+Loe-SS; 2025-04-22 02:22:22
 add_a_new_line_below_this_one;
 please_enter_your_info_in_the_row_above; 
 dont_use_this_row;
